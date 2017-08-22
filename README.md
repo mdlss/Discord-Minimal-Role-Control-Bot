@@ -6,7 +6,7 @@ Commands are issued over unauthenticated websocket connections (recommend allowi
 The following options should be set in the config.json file:
 
 | Param | Description |
-| ----- | :----------- |
+| -----:| :----------- |
 | host | location of mysql database (used to store queue when discord bot encounters connection issues) |
 | localOnly | boolean dictating if headers should be checked for local address |
 | user | database user |
