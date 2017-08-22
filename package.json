@@ -1,0 +1,14 @@
+{
+  "name": "discordauthifierbot",
+  "version": "0.1.0",
+  "description": "Discord websocket driven role control bot.",
+  "main": "main.js",
+  "author": "mdlss",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "fs": "0.0.1-security",
+    "mysql": "^2.14.1",
+    "ws": "^3.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "localOnly": true,
+  "user": "root",
+  "password": "root_password",
+  "db": "database_to_connect_to",
+  "port": 3306,
+  "discord_guild_id": "1111111111111",
+  "discord_bot_token": "aef019231.0xdeadbeef"
+}
